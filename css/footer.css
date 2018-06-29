@@ -1,0 +1,19 @@
+#foot{
+	width: 100%;
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBmRW49wBPlouNDox9HKG4pTc3AnkWAxpxAt1q3i9-Olpz0GFb');
+	height: 200px;
+	margin: 0 auto;
+}
+.divfoot{
+	display: inline-block;
+	border: 0;
+	width: 300px;
+	height: auto;
+	float: left;
+	color: #00CC99;
+	margin: 10px 70px 0px 70px;
+}
+a{color: #fff}
+.spanfoot{
+	font-size: 12px; color: #fff; font-weight: bold;
+}

@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+#banner{
+	width: 1024px;
+	height: 225px;
+	margin: 0 auto;
+	background-image: url('https://i.ytimg.com/vi/GQ8QIiFDxo4/hqdefault.jpg');
+	
+}
+#zwona{
+	color: #00CC99; 
+	font-family: algerian, time new roman;
+	font-size: 70px;
+}
+#frikee{
+	color: #33FFCC;
+	font-family: algerian; 
+	font-size: 70px
+}

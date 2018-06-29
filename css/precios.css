@@ -1,0 +1,23 @@
+#foot{
+	width: 100%;
+	background-color: #ccc;
+	height: 40px;
+	text-align: center;
+}
+h1{color: #fff;}
+h2{color: #fff;}
+body{background-color: #000;}
+label{font-weight: bold;}
+p{font-size; color: #fff;}
+.menu{color: #cacaca;}
+ul{text-align: center;}
+#container{
+	margin: 10%;
+	border: 20px solid #ccc;
+	background-image: url('http://i0.kym-cdn.com/photos/images/original/001/178/342/813.gif');
+	padding: 10px 50px 44px 50px;
+	}
+h1{color: #78c2ab; font-family: algerian;}
+table{width: 600px;}
+thead{text-align: left;}
+

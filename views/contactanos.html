@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>Contactanos</title>
+		<link rel="stylesheet" type="text/css" href="../css/cuerpo_ZF.css">
+	</head>
+<body>
+	<iframe src="../templates/header.html" id="iframe-head"></iframe>
+	<div id="container">
+		<h1>Contactanos</h1>
+		<form>
+			<p>
+			<input type="radio" name="servicio" value="cliente">Cliente
+			<input type="radio" name="servicio" value="particular">Particular
+			</p>
+			<p>
+				<label>Motivo del mensaje?</label>
+			</p>
+			<p>
+				<select name="motivo">
+					<option>Quejas</option>
+					<option>sugerencias</option>
+					<option>soporte tecnico</option>
+					<option>nuevo servicio</option>
+					<option selected="selected">--Seleccionar--</option>
+				</select>
+			</p>
+			<p>
+				<div>
+					<label>Nombre:</label>
+				</div>
+				<input type="text" name="nombre"/>
+			</p>
+			<p>
+				<div>
+					<label>Email:</label>
+				</div>
+				<input type="text" name="email"/>
+			</p>
+			<p>
+				<div>
+					<label>Deja tu comentario..</label>
+				</div>
+			</p>
+			<p>
+				<textarea name="comentario" cols="100" rows="10">
+				</textarea>
+			</p>
+			<p>
+				<input type="submit" value="Enviar mensaje"/>
+				<input type="reset" value="Limpiar datos"/>
+			</p>
+		</form>
+	</div>
+	<iframe src="../templates/footer.html" id="iframe-foot"></iframe>
+</body>
+</html>

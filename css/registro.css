@@ -1,0 +1,27 @@
+h1{color: #78c2ab; font-family: algerian;}
+body{background-image: url('https://pa1.narvii.com/6334/213b0cde84f5d669504d28828f6a79609dbbe5f0_hq.gif');
+			}
+p{
+	font-size: 14px;
+	color: #fff;
+}
+div{color: #fff}
+#container{
+	margin: 0 10% 0 10%;
+	border: 20px solid #ccc;
+	background-image: url('https://images2.alphacoders.com/762/762089.jpg');
+	padding: 0 10px 10px 10px;
+}
+label{font-weight: bold;}
+#iframe-head{
+	width: 100%;
+	height: 250px;
+	margin: 0;
+	border: 0;
+}
+#iframe-foot{
+	width: 100%;
+	height: 250px;
+	margin: 0;
+	padding: 0;
+	border: 0;}
